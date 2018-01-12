@@ -2,5 +2,5 @@
 ## Prerequisites
 
 * Anaconda3
-* Python 3.5.0
+* Python 2.7.13
 
